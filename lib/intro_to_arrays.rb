@@ -1,1 +1,1 @@
-def my_
+def @my_new_array 
