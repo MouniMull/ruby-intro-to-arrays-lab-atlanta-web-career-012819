@@ -18,6 +18,9 @@ def last_element(array)
   array.last
 end 
 
+def last_element(array)
+  array.first 
+end 
 
 
 
